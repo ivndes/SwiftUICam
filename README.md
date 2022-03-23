@@ -42,7 +42,7 @@ SwiftUICam is available through SPM. To install it, go to `File -> Swift Package
 
 And enter
 ```
-https://github.com/pierreveron/SwiftUICam
+https://github.com/ivndes/SwiftUICam
 ```
 
 As the url.
